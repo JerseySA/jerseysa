@@ -1,6 +1,6 @@
 ## Olá Pessoal 👋
 
-<!--
+
 **JerseySA/jerseysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -8,7 +8,7 @@
 - 🌱 Atualmente estou aprendendo junto com a Alura
 - 👯 Estou procurando aprender mais sobre tecnologias
 - 🤔 Estou procurando novas oportunidades e desafios profissionais
--->
+
 
 
 ## Contatos:
